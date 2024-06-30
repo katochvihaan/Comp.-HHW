@@ -8,6 +8,7 @@ Instructions:-
               it will download all the resources of the site,
               after it has been downloaded, please unzip it,
               after unzipping it,
+              open the folder,
               click on index.html,
               Voila! There is the site I created.
               
