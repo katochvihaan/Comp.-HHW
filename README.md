@@ -11,5 +11,5 @@ Instructions:-
               click on index.html,
               Voila! There is the site I created.
               
-              	-Created by Vihaan Katoch
-              		-XI-C
+    -Created by Vihaan Katoch
+    -XI-C
